@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>true</hidden>
+        <name>new_view_form</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 15:10:32</sys_created_on>
+        <sys_id>ba890d3b93773110e550f55f7bba109f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>new view form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_ba890d3b93773110e550f55f7bba109f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 10:05:58</sys_updated_on>
+        <title>new view form</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>602bb407db2af5d0caf99027c5961989</instance_id>
+        <instance_name>dev219238</instance_name>
+        <name>sys_ui_view_ba890d3b93773110e550f55f7bba109f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>true</hidden><name>new_view_form</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-24 15:10:32</sys_created_on><sys_id>ba890d3b93773110e550f55f7bba109f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>new view form</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_ba890d3b93773110e550f55f7bba109f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-25 10:05:58</sys_updated_on><title>new view form</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-355794737</payload_hash>
+        <record_name>new view form</record_name>
+        <reverted_from/>
+        <source>990b571b93f33110e550f55f7bba1021</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 10:05:58</sys_created_on>
+        <sys_id>276dc1c093800210e550f55f7bba1071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d40155cde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 10:05:58</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>5b6dc1c0f580021080d6edd8a1103270</update_guid>
+        <update_guid_history>5b6dc1c0f580021080d6edd8a1103270:-355794737,be890d3bc07731109c8fb877e6ed68a1:1948898924</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-25 10:06:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>04202e6de52941b2868e1eb436357764</sys_id>
+        <sys_metadata>ba890d3b93773110e550f55f7bba109f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new view form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_ba890d3b93773110e550f55f7bba109f</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_ba890d3b93773110e550f55f7bba109f">276dc1c093800210e550f55f7bba1071</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-25 10:06:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
