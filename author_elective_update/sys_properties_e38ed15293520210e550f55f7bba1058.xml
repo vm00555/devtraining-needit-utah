@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>Coma-separated list of choices. Used only with the choice list type</choices>
+        <description>An explanation of the property  that is displayed on the application property page</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>true</is_private>
+        <name>x_58872_needit.Unique part of property name</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>Unique part of property name</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 07:36:04</sys_created_on>
+        <sys_id>e38ed15293520210e550f55f7bba1058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Unique part of property name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_e38ed15293520210e550f55f7bba1058</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 07:36:04</sys_updated_on>
+        <type>choicelist</type>
+        <value>The dafault values for property. (not required)</value>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=e38ed15293520210e550f55f7bba1058"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>602bb407db2af5d0caf99027c5961989</instance_id>
+        <instance_name>dev219238</instance_name>
+        <name>sys_properties_e38ed15293520210e550f55f7bba1058</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>Coma-separated list of choices. Used only with the choice list type</choices><description>An explanation of the property  that is displayed on the application property page</description><ignore_cache>true</ignore_cache><is_private>true</is_private><name>x_58872_needit.Unique part of property name</name><read_roles>x_58872_needit.admin</read_roles><suffix>Unique part of property name</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-23 07:36:04</sys_created_on><sys_id>e38ed15293520210e550f55f7bba1058</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.Unique part of property name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_e38ed15293520210e550f55f7bba1058</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-23 07:36:04</sys_updated_on><type>choicelist</type><value>The dafault values for property. (not required)</value><write_roles>x_58872_needit.admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=e38ed15293520210e550f55f7bba1058"/></record_update>]]></payload>
+        <payload_hash>-1342655711</payload_hash>
+        <record_name>x_58872_needit.Unique part of property name</record_name>
+        <reverted_from/>
+        <source>990b571b93f33110e550f55f7bba1021</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 07:36:05</sys_created_on>
+        <sys_id>8450e15293520210e550f55f7bba104e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa460e7830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 07:36:05</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>4850e15231520210cd25f3acc510274d</update_guid>
+        <update_guid_history>4850e15231520210cd25f3acc510274d:-1342655711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 08:12:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>82a9a508000c4640a7971074c4978424</sys_id>
+        <sys_metadata>e38ed15293520210e550f55f7bba1058</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Unique part of property name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_e38ed15293520210e550f55f7bba1058</sys_update_name>
+        <sys_update_version display_value="sys_properties_e38ed15293520210e550f55f7bba1058">8450e15293520210e550f55f7bba104e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 08:12:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
